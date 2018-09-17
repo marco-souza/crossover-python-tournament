@@ -1,0 +1,2 @@
+- [x] Create validation to serial when post a new panel
+- [x] Validate is kilo_watt is always positive.
